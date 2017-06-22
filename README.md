@@ -10,7 +10,7 @@ How to use
 Example:
 
 ```
-const mailwizzSdk = require('mailwizz-sdk');
+const mailwizzSdk = require('node-mailwizz-sdk');
 
 const config = {
     publicKey: 'publicKey',

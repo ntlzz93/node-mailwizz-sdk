@@ -1,0 +1,22 @@
+{
+  "name": "node-mailwizz-sdk",
+  "version": "1.0.0",
+  "description": "a fixed version of mailwizz-sdk https://www.npmjs.com/package/mailwizz-sdk",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ntlzz93/node-mailwizz-sdk.git"
+  },
+  "keywords": [
+    "mailwizz-sdk"
+  ],
+  "author": "loint",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ntlzz93/node-mailwizz-sdk/issues"
+  },
+  "homepage": "https://github.com/ntlzz93/node-mailwizz-sdk#readme"
+}
