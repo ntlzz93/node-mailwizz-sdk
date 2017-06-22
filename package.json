@@ -1,6 +1,6 @@
 {
   "name": "node-mailwizz-sdk",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "a fixed version of mailwizz-sdk https://www.npmjs.com/package/mailwizz-sdk",
   "main": "index.js",
   "scripts": {
